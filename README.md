@@ -1,2 +1,3 @@
-# Programming studio 2 Project
+# Scala Graph Visualizer
 
+Graph Visualizer made using ScalaFX
