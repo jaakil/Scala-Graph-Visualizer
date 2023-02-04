@@ -1,0 +1,5 @@
+# Comments work using the hash symbol at the beginning of a line
+# Please do not use empty lines
+50,name
+50,secondname
+80,thirdname

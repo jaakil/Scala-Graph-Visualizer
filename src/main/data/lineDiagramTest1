@@ -1,0 +1,7 @@
+# Hash symbol is used for comment rows
+# Data is separated by a comma (,)
+# Data can be added in any order. Obviously, having datapoints with the same x-coordinates will not work.
+3,6
+5,4
+6,7
+100,400
